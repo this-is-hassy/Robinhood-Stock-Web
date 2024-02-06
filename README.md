@@ -15,7 +15,7 @@ There are so many features are remaining to add and possibilities are endless. W
 
 ## Visit
 
-visit to the app with this link : https://project-robinhood.vercel.app
+visit to the app with this link : (https://robinhood-stock-web.vercel.app/)
 
 
 ## Tech Stack
